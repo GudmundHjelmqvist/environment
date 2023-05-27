@@ -1,0 +1,14 @@
+wheel
+pandas
+numpy
+pyarrow
+streamlit
+black
+kaleido
+flake8
+isort
+scikit-learn
+omegaconf
+plotly
+matplotlib
+streamlit-aggrid
